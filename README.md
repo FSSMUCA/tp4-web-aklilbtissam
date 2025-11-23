@@ -67,7 +67,7 @@ Slider / Carousel Bootstrap
 Ajoutez ce composant :
 
 <div id="heroSlider" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
+  
 
     <div class="carousel-item active">
       <img src="https://picsum.photos/1200/400?1" class="d-block w-100">
@@ -116,13 +116,14 @@ Section “Nos Événements” (3 cartes Bootstrap)
         <img src="https://picsum.photos/300/180?event1" class="card-img-top">
         <div class="card-body">
           <h5 class="card-title">Événement 1</h5>
-          <p class="card-text">Description courte de l’événement.</p>
-          <a href="#" class="btn btn-primary">Lire plus</a>
+          
+         <p class="card-text">Description courte de l’événement.</p> 
+         <a href="#" class="btn btn-primary">Lire plus</a>
         </div>
       </div>
     </div>
 
-    <div class="col-md-4">
+    
       <div class="card">
         <img src="https://picsum.photos/300/180?event2" class="card-img-top">
         <div class="card-body">
@@ -138,7 +139,7 @@ Section “Nos Événements” (3 cartes Bootstrap)
         <img src="https://picsum.photos/300/180?event3" class="card-img-top">
         <div class="card-body">
           <h5 class="card-title">Événement 3</h5>
-          <p class="card-text">Description courte de l’événement.</p>
+          
           <a href="#" class="btn btn-primary">Lire plus</a>
         </div>
       </div>
